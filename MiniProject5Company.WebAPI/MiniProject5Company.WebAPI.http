@@ -1,0 +1,6 @@
+@MiniProject5Company.WebAPI_HostAddress = http://localhost:5183
+
+GET {{MiniProject5Company.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
